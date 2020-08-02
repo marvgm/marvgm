@@ -2,8 +2,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/marcosgracioli/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:marvgm@gmail.com)](mailto:marvgm@gmail.com)
-[![Other projects](https://img.shields.io/github/followers/:user?label=Follow)](ttps://www.unicorniohater.com.br)
-
 
 
 ### Hello! Welcome to my profile
