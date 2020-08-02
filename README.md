@@ -1,16 +1,14 @@
-### Hi there 👋
+# Marcos Vinicius Gracioli Malta de Oliveira
 
-<!--
-**marvgm/marvgm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/marcosgracioli/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:marvgm@gmail.com)](mailto:marvgm@gmail.com)
+[![Other projects](https://img.shields.io/github/followers/:user?label=Follow)](ttps://www.unicorniohater.com.br)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Hello! Welcome to my profile
+<img style="margin: 0 auto" src="https://media.giphy.com/media/l3q2KRkOVYvi8WfU4/giphy.gif" height="200">
+
+
+- 👷 I’m System Analist / Developer at <a target="_blank" href="http://www.foton.la/">Fóton</a>
+- 🤓 I’m Blogger/Writer at <a target="_blank" href="https://unicorniohater.com.br/">Unicórnio Hater</a>
